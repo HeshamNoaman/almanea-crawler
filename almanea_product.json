@@ -1,0 +1,392 @@
+[
+    {
+        "url": "https://www.almanea.sa/product/xiaomi-redmi-10-2022-4g-6gb-ram-128gb-sea-blue-p-6110313124",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "شاومي ريدمي, 104 جي, 128 جيجا, أزرق.",
+                "url": "https://www.almanea.sa/product/xiaomi-redmi-10-2022-4g-6gb-ram-128gb-sea-blue-p-6110313124",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/1/0/100317007_100_01.jpg",
+                "price": "748.99",
+                "wasPrice": null
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/vivo-y36-4g-8gb-128gb-meteor-black-p-6110403561",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "فيفو واي 36، 4 جي، 128 جيجا، أسود",
+                "url": "https://www.almanea.sa/product/vivo-y36-4g-8gb-128gb-meteor-black-p-6110403561",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/5/6/5664482-3.jpg",
+                "price": "699.00",
+                "wasPrice": null
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a05-lte-4gb-64gb-silver-p-6110202102",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A05 LTE 4 جيجا 64 جيجا فضي",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a05-lte-4gb-64gb-silver-p-6110202102",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/s/a/samsung_galaxy_a05_lte_4gb_64gb_silver.jpg",
+                "price": "378.99",
+                "wasPrice": null
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a05-lte-4gb-64gb-black-p-6110202101",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A05 LTE 4 جيجا 64 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a05-lte-4gb-64gb-black-p-6110202101",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/s/a/samsung_galaxy_a05_6.7inch_64gb_4gb_ram_black_-_sm-a055fzkdmea.webp",
+                "price": "378.99",
+                "wasPrice": null
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-12-5g-128gb-black-p-6110112030",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 12 5جي 128 جيجابايت أسود",
+                "url": "https://www.almanea.sa/product/apple-iphone-12-5g-128gb-black-p-6110112030",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/m/g/mgja3aa-a_-1.jpg",
+                "price": "1949.00",
+                "wasPrice": "2549.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-13-5g-128gb-pink-p-6110113213",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل أيفون 13 ، 5 جي، 128 جيجا، وردي",
+                "url": "https://www.almanea.sa/product/apple-iphone-13-5g-128gb-pink-p-6110113213",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/m/l/mlne3aha-1_mtc-326964.jpg",
+                "price": "2249.00",
+                "wasPrice": "2589.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-14-128gb-5g-blue-p-6110114044",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل أيفون 14، الجيل الخامس، 128 جيجا، أزرق",
+                "url": "https://www.almanea.sa/product/apple-iphone-14-128gb-5g-blue-p-6110114044",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/6/2/62202b8a5a579d4f2a5e5f3a7db851b953065d6a_595133.webp",
+                "price": "2699.00",
+                "wasPrice": "3799.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-plus-5g-6gb-128gb-blue-p-6110115243",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 بلس، 5 جي، 6 جيجابايت، 128 جيجابايت، أزرق",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-plus-5g-6gb-128gb-blue-p-6110115243",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/1/_/1_blue_3.jpg",
+                "price": "3298.99",
+                "wasPrice": "4198.99"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-128gb-black-titanium-p-6110115440",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو، 5 جي، 8 جيجابايت، 128 جيجابايت، تيتانيوم أسود",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-128gb-black-titanium-p-6110115440",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/1/_/1_8_.jpg",
+                "price": "3999.00",
+                "wasPrice": "4699.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-256gb-black-titanium-p-6110115480",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو، 5 جي، 8 جيجابايت، 256 جيجابايت، تيتانيوم أسود",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-256gb-black-titanium-p-6110115480",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/1/111_3.webp",
+                "price": "4399.00",
+                "wasPrice": "5199.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-256gb-natural-titanium-p-6110115482",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "ابل ايفون 15 برو، 5 جي، 8 جيجا، 256 جيجا، تيتانيوم طبيعي",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-256gb-natural-titanium-p-6110115482",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/_/1_8_natural_titanium_2.webp",
+                "price": "4399.00",
+                "wasPrice": "5199.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-256gb-blue-titanium-p-6110115483",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو، 5 جي، 8 جيجابايت، 256 جيجابايت، تيتانيوم أزرق",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-256gb-blue-titanium-p-6110115483",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/_/1_blue_titanium_2.webp",
+                "price": "4399.00",
+                "wasPrice": "5199.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-512gb-natural-titanium-p-6110115522",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "ابل ايفون 15 برو، 5 جي، 8 جيجا، 512 جيجا، تيتانيوم طبيعي",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-5g-8gb-512gb-natural-titanium-p-6110115522",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/_/1_8_natural_titanium_1.webp",
+                "price": "5699.00",
+                "wasPrice": "6599.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-black-titanium-p-6110115680",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو ماكس، 5 جي، 8 جيجابايت، 256 جيجابايت، تيتانيوم أسود",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-black-titanium-p-6110115680",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/_/1_8_black_titanium_1.webp",
+                "price": "4849.00",
+                "wasPrice": "5699.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-white-titanium-p-6110115681",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو ماكس، 5 جي، 8 جيجابايت، 256 جيجابايت، تيتانيوم أبيض",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-white-titanium-p-6110115681",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/1/_/1_white_titanium_1_1.jpg",
+                "price": "4849.00",
+                "wasPrice": "5699.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-natural-titanium-p-6110115682",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو ماكس، 5 جي، 8 جيجابايت، 256 جيجابايت، تيتانيوم طبيعي",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-natural-titanium-p-6110115682",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/_/1_natural_titanium_2.webp",
+                "price": "4849.00",
+                "wasPrice": "5699.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-blue-titanium-p-6110115683",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "أبل آيفون 15 برو ماكس، 5 جي، 8 جيجابايت، 256 جيجابايت، تيتانيوم أزرق",
+                "url": "https://www.almanea.sa/product/apple-iphone-15-pro-max-5g-8gb-256gb-blue-titanium-p-6110115683",
+                "photo": "https://m.dev-almanea.com/media/webps/jpg/media/catalog/product/1/_/1_blue_titanium_5.webp",
+                "price": "4849.00",
+                "wasPrice": "5699.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a04s-4gb-64gb-black-p-6110201426",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالكسي إيه 04 إس ، 4 جي، 64 جيجا، أسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a04s-4gb-64gb-black-p-6110201426",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/n/e/new_exynos_850_8nm_project.jpg",
+                "price": "399.00",
+                "wasPrice": "559.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a05-lte-4gb-128gb-black-p-6110202141",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A05 LTE 4 جيجا 128 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a05-lte-4gb-128gb-black-p-6110202141",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/s/a/samsung_galaxy_a05_6.7inch_64gb_4gb_ram_black_-_sm-a055fzkdmea_1.jpg",
+                "price": "399.00",
+                "wasPrice": "435.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a05s-lte-4gb-64gb-light-violet-p-6110202200",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A05s LTE 4 جيجا 64 جيجا بنفسجي فاتح",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a05s-lte-4gb-64gb-light-violet-p-6110202200",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/6/1/61teyjmzbnl._ac_sl1500_.jpg",
+                "price": "399.00",
+                "wasPrice": "448.99"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a05s-lte-4gb-128gb-black-p-6110202241",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A05s LTE 4 جيجا 128 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a05s-lte-4gb-128gb-black-p-6110202241",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/6/1/61jbr_kuedl._ac_sl1500__1_.jpg",
+                "price": "475.00",
+                "wasPrice": "519.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a05s-lte-4gb-128gb-silver-p-6110202242",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A05s LTE 4 جيجا 128 جيجا فضي",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a05s-lte-4gb-128gb-silver-p-6110202242",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/6/1/61sdl9bht6l._ac_sl1500__1_.jpg",
+                "price": "475.00",
+                "wasPrice": "519.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a14-5g-4gb-64gb-black-p-6110203044",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي ايه 14 , 5 جي ,4 جيجابايت, , 64جيجابايت ,أسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a14-5g-4gb-64gb-black-p-6110203044",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/n/e/new_project_81__1.jpg",
+                "price": "575.00",
+                "wasPrice": "675.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a14-5g-4gb-128gb-black-p-6110203084",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي ايه 14 , 5 جي ,4 جيجابايت, , 128جيجابايت ,أسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a14-5g-4gb-128gb-black-p-6110203084",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/n/e/new_project_81_.jpg",
+                "price": "699.00",
+                "wasPrice": "775.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-4gb-128gb-black-p-6110203240",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A15 LTE 4 جيجا 128 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-4gb-128gb-black-p-6110203240",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/s/m/sm-a155_galaxy_a15_lte_blue_black_front.png.jpg",
+                "price": "549.00",
+                "wasPrice": "599.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-4gb-128gb-light-blue-p-6110203241",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A15 LTE، 4 جيجابايت، 128 جيجابايت، أزرق فاتح",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-4gb-128gb-light-blue-p-6110203241",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/d/_/d.jpg",
+                "price": "549.00",
+                "wasPrice": "599.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-8gb-256gb-black-p-6110203280",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A15 LTE 8 جيجا 256 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-8gb-256gb-black-p-6110203280",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/n/e/new_s.jpg",
+                "price": "699.00",
+                "wasPrice": "799.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-8gb-256gb-light-blue-p-6110203281",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A15 LTE، 8 جيجابايت، 256 جيجابايت، أزرق فاتح",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a15-lte-8gb-256gb-light-blue-p-6110203281",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/s/m/sm-a155_galaxy_a15_lte_light_blue_front.png.jpg",
+                "price": "699.00",
+                "wasPrice": "799.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a15-5g-4gb-128gb-black-p-6110203340",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A15 5G 4 جيجا 128 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a15-5g-4gb-128gb-black-p-6110203340",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/8/7/87ddaecec771110bc42be1100532a29f145bef5f_628822.jpg",
+                "price": "625.00",
+                "wasPrice": "699.00"
+            }
+        }
+    },
+    {
+        "url": "https://www.almanea.sa/product/samsung-galaxy-a25-5g-6gb-128gb-black-p-6110203420",
+        "label": "PRODUCT",
+        "userData": {
+            "data": {
+                "productName": "سامسونج جالاكسي A25 5G 6 جيجا 128 جيجا اسود",
+                "url": "https://www.almanea.sa/product/samsung-galaxy-a25-5g-6gb-128gb-black-p-6110203420",
+                "photo": "https://m.dev-almanea.com/media/catalog/product/6/1/61n8r-qrkul._ac_sl1500_.jpg",
+                "price": "799.00",
+                "wasPrice": "899.00"
+            }
+        }
+    }
+]
